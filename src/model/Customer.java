@@ -17,7 +17,7 @@ public class Customer {
         this.products = new ArrayList<>();
     }
 
-    public int getId() {
+    public int getCustomerId() {
         return id;
     }
 
